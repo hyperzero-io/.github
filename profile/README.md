@@ -4,6 +4,6 @@ Hyperzero-IO (🌐 hyperzero.io) is a next-gen collective pioneering the future 
 
 Founded by YES, a visionary in multi-agent orchestration, Hyperzero-IO explores radical ideas, open research, and modular frameworks that redefine how humans and AI interact.
 
-📬 Contact: yes@hyperzero.io
+📬 Contact: me@hyperzero.io
 
 We don’t just build agents. We build mind loops for machines.
